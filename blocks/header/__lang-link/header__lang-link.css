@@ -3,12 +3,6 @@
     font-size: 24px;
     line-height: 28px;
     font-weight: 400;
-    margin-left: 18px;
-}
-
-.header__lang-link:first-of-type {
-    text-decoration: underline;
-    margin-left: 0;
 }
 
 @media screen and (max-width: 320px) {

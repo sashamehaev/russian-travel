@@ -1,8 +1,8 @@
-.place__animated-link {
+.animated-link {
     opacity: 1;
 }
 
-.place__animated-link:hover {
+.animated-link:hover {
     opacity: .8;
     transition: opacity;
     transition-duration: .5s;
