@@ -9,7 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
-@import url(../blocks/header/__lang-link/_disabled/header__lang-link_disabled.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /*Импорт для блока lead*/
 @import url(../blocks/lead/lead.css);
@@ -42,7 +42,6 @@
 /*Импорт для блока cover*/
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__animated-link/cover__animated-link.css);
@@ -51,6 +50,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link-container/footer__link-container.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 
 
