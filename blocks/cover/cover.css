@@ -2,6 +2,9 @@
     max-width: 1184px;
     margin: 0 auto 92px;
     background-image: url(../../images/cover__background.png);
+    background-position: center;
+    background-size: cover;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 1024px) {
