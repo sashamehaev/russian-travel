@@ -2,8 +2,14 @@
     margin-right: 18px;
 }
 
+
+
 @media screen and (max-width: 767px) {
     .footer__link-container {
-        margin-bottom: 32px;
+        margin: 0 0 32px;
+    }
+
+    .footer__link-container:last-of-type {
+        margin-bottom: 48px;
     }
 }
